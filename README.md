@@ -12,7 +12,7 @@
 <h6 align="center">Sample projects that I have developed during my studies </h6>
 - 📈 <a href="https://github.com/5D-kif/Visualization-Dashboard-and-Business-Report-using-PowerBI">PROBAKE Business Analytics Dashboard using PowerBI</a><br><br>
 - 🏪 <a href="https://github.com/5D-kif/E-commerce-system-FIDI-Bakerry-">FIDI Bakery Online Store</a><br><br>
-- 💪🏻 <a href="https://github.com/5D-kif/Fuzzy-System---Diet-Plan-Recommendation-System-SADO-2.0-">Smart Application Diet Organizer (SADO 2.0)</a><br><br>
+- 💪🏻 <a href="https://github.com/5D-kif/Fuzzy-System---Diet-Plan-Recommendation-System-SADO-2.0-">Smart Application Diet Fuzzy Organizer System (SADO 2.0) </a><br><br>
 - 🗄️ <a href="https://github.com/5D-kif/Enterprise-Management-System-using-Oracle-APEX">Enterprise Database Management System using Oracle APEX</a><br><br>
 - 🎮 <a href="https://github.com/5D-kif/OOP-Game-using-JAVA">OOP Game Development using JAVA</a><br>
 
