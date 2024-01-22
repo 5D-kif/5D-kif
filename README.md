@@ -23,7 +23,7 @@
 <h3 align="center">Connect with me 🤝</h3>
 <h6 align="center">Feel free to say hello</h6>
 <div align="center">
-<a href="https://www.linkedin.com/in/faidi-akif-b5a6ba258/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zubquzaini" /></a>
+<a href="https://www.linkedin.com/in/muhamad-faidi-akif/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zubquzaini" /></a>
 </div><br>
 
 <h3 align="center">Languages and Tools ⚡️</h3>
